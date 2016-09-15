@@ -4,28 +4,26 @@
 
 * Le moteur de recherche DuckDuckGo est écrit en Perl et JavaScript et fonctionne avec nginx sur FreeBSD et Ubuntu.
 
-## source:
-* wikipedia.
+## source: www.wikipedia.com
 
 # Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 * Il y a 400 heures de video mise en ligne chaque minute sur youtube.
 
-## source?:
-* http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques
+## source?: http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques
 
 # Qui est steve wozniak?
 * Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
  Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple, et est un des pionniers de l'industrie micro-informatique.
- * Steve Wozniak fait la connaissance de Steve Jobs en 1970 grâce à son voisin Bill Fernandez, alors camarade de classe de Jobs à la Homestead High School. Ils partagent la même passion de l'électronique, ils deviennent amis et réalisent ensemble de nombreux canulars. En octobre 1971, les deux Steve mettent la main sur un article du magazine Esquire qui explique comment fabriquer une blue box, un appareil qui permet de passer des appels longue distance de façon entièrement gratuite en fraudant donc les compagnies téléphoniques, et plus précisément AT&T. Ils décident alors d'en monter et de les vendre pour 150 $ l'unité, pour un total de 200 exemplaires environ. Selon Steve Jobs, cette expérience est à l'origine d'Apple.
- ## source?
- ** wikipedia
+ * Steve Wozniak fait la connaissance de Steve Jobs en 1970 grâce à son voisin Bill Fernandez, alors camarade de classe de Jobs à la Homestead High School. Ils partagent la même passion de l'électronique, ils deviennent amis et réalisent ensemble de nombreux canulars. En octobre 1971, les deux Steve mettent la main sur un article du magazine Esquire qui explique comment fabriquer une blue box, un appareil qui permet de passer des appels longue distance de façon entièrement gratuite en fraudant donc les compagnies téléphoniques, et plus précisément AT&T. Ils décident alors d'en monter et de les vendre pour 150 $ l'unité, pour un total de 200 exemplaires environ. Selon Steve Jobs, cette expérience est à l'origine d'Apple. 
+
+ ## source : https://fr.wikipedia.org/wiki/Steve_Wozniak
 
  # quel est mon addresse ip?
  ## et celle de mon smartphone?
  * mon addresse ip est: 217.114.203.210 
  et celle de mon smartphone: 193.56.244.117
- ### source?
- * mon-ip.com
+
+ ### source: www.mon-ip.com
 
  # Par qui, quand et où a etait inventé internet?
  *Dans les années 1960, en pleine guerre froide, les autorités militaires américaines demandent aux universités de réfléchir à un système de réseau fiable qui, en cas d'attaque ennemie, pourrait rediriger les données qui y circulent. Arpanet voit ainsi le jour en 1969, ne reliant que quelques ordinateurs.
@@ -49,13 +47,32 @@ Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier
    2001 : Jimmy Wales & Larry Sanger dévoilent Wikipédia
    2004 : lancement de Facebook par Mark Zuckerberg et son équipe, généralisation du web 2.0
 
-   ## source?
-   *cultivetoi.fr
+   ## source: www.cultivetoi.fr
 
-   # quelle est la difference entre le web et internet?
-   * nternet (contraction de Inter Network) est un réseau informatique qui relie des ordinateurs entre eux à l'échelle du monde. Ce gigantesque réseau se compose de millions de réseaux publics et privés plus petits, par exemple des réseaux universitaires, gouvernementaux ou commerciaux.
+   # Quelle est la difference entre le web et internet?
+   * internet (contraction de Inter Network) est un réseau informatique qui relie des ordinateurs entre eux à l'échelle du monde. Ce gigantesque réseau se compose de millions de réseaux publics et privés plus petits, par exemple des réseaux universitaires, gouvernementaux ou commerciaux.
    Cette vaste infrastructure informatique repose sur le protocole de communication IP (pour Internet Protocol), qui permet d'acheminer des données entre les ordinateurs via un maillage de serveurs et de routeurs.
    Elle a de multiples usages comme le partage de fichiers, la messagerie instantanée, la téléphonie, l'envoi de courrier électronique et le web. 
+
+   # Qu’est-ce que cela :
+
+    * 8.8.8.8 : est l'addresse ip de google-public-dns-a.google.com
+
+    * 192.168.0.1 : Selon les règles généralement acceptées, routeur est la première adresse du sous-réseau, à savoir 192.168.1.1 a été configuré à la majorité des périphériques réseau, tels que Zyxel, Linksys, Cisco, TP-Link, Upvel, Sagemcom, Asus.
+    D-Link et Netgear sont utilisés une autre adresse IP et le par défaut - 192.168.0.1. Mais il signifie dans les deux cas - c'est l'adresse de dispositif de routeur dans le réseau de la maison.
+
+    * 255.255.255.0 : Est un sous reseau: Un sous-réseau est une subdivision logique d'un réseau de taille plus importante. Le masque de sous-réseau permet de distinguer la partie de l'adresse utilisée pur le routage et celle utilisable pour numéroter des interfaces. Un sous-réseau correspond typiquement à un réseau local sous-jacent.
+    Historiquement, on appelle également sous-réseau chacun des réseaux connecté à Internet.
+    La subdivision d'un réseau en sous-réseaux permet de limiter la propagation des broadcast, ceux-ci restant limités au réseau local et leur gestion étant coûteuse en bande passante et en ressource au niveau des commutateurs réseau. Les routeurs sont utilisés pour la communication entre les machines appartenant à des sous-réseaux différents.
+
+    * 127.0.0.1 : Cela vient des standards écrits par les ingénieurs qui définissent les "règles" de fonctionnement d'Internet. Le groupe d'ingénieurs qui écrit ces papiers s'appelle IETF (Internet Engineering Task Force). On y découvre, notamment, que toute paquet adressé à une adresse qui commence par 127.x.x.x, doit être redirigée vers l'équipement lui-même depuis lequel on adresse le paquet. Une boucle en retour (loopback) en quelque sorte.
+    Donc cela vaut pour, par exemple, les adresse 127.240.27.18, ou 127.0.0.1, ou 127.54.38.125, etc.... Par conséquent, tout système d'exploitation digne de ce nom, doit respecter les "règles" définies par l'IETF.
+    Car ce n'est pas au navigateur de connître ces règles, mais au service (ou démon) TCP/IP qui tourne sur votre système d'exploitation.
+    C'est ce dernier qui fait office de "chef de gare" et aiguille tous les paquets de donées IP vers le bon endroit.
+    C'est ce service qui va recevoir le paquets IP evoyés par votre navigateur et les redirigera au bon endroit (sur Internet ou sur votre propre ordinateur). 
+
+    ## source: culture informatique, wikipedia,
+
   
 
 
