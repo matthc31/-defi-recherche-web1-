@@ -19,11 +19,11 @@
  ## source : https://fr.wikipedia.org/wiki/Steve_Wozniak
 
  # quel est mon addresse ip?
- ## et celle de mon smartphone?
+ # et celle de mon smartphone?
  * mon addresse ip est: 217.114.203.210 
  et celle de mon smartphone: 193.56.244.117
 
- ### source: www.mon-ip.com
+ # source: www.mon-ip.com
 
  # Par qui, quand et où a etait inventé internet?
  * Dans les années 1960, en pleine guerre froide, les autorités militaires américaines demandent aux universités de réfléchir à un système de réseau fiable qui, en cas d'attaque ennemie, pourrait rediriger les données qui y circulent. Arpanet voit ainsi le jour en 1969, ne reliant que quelques ordinateurs.
@@ -32,7 +32,7 @@ En 1973 se développe le protocole TCP/IP, adopté en 1976. En 1983, pour évite
 
 Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier serveur Web et le premier client Web : WWW (World Wide Web). Internet est né, sous forme de pages en HTML, mélangeant du texte, des liens et des images, avec comme adresse une URL, accessible via le protocole HTTP. - 
 
- ** 1971: 23 ordinateurs sont interconnecté grâce au réseau ARPANET. Ray Tomlinson est le premier homme à envoyer un e-mail.
+ * 1971: 23 ordinateurs sont interconnecté grâce au réseau ARPANET. Ray Tomlinson est le premier homme à envoyer un e-mail.
    1973: le réseau devient international avec l’ajout de deux ordinateurs, un en Angleterre, l’autre en Norvège. Cette même année, les bases du protocole TCP/IP sont posées, c’est toujours avec ces dernières que fonctionne l’actuel internet.
    1979 : des étudiants américains créés les premiers forums de discussion
    1983 : grâce à la mise en place du protocole TCP/IP les sites internet peuvent désormais porter un nom. 
@@ -47,9 +47,10 @@ Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier
    2001 : Jimmy Wales & Larry Sanger dévoilent Wikipédia
    2004 : lancement de Facebook par Mark Zuckerberg et son équipe, généralisation du web 2.0
 
-   ##  source: www.cultivetoi.fr
+   #  source: www.cultivetoi.fr
 
    # Quelle est la difference entre le web et internet?
+
    * internet (contraction de Inter Network) est un réseau informatique qui relie des ordinateurs entre eux à l'échelle du monde. Ce gigantesque réseau se compose de millions de réseaux publics et privés plus petits, par exemple des réseaux universitaires, gouvernementaux ou commerciaux.
    Cette vaste infrastructure informatique repose sur le protocole de communication IP (pour Internet Protocol), qui permet d'acheminer des données entre les ordinateurs via un maillage de serveurs et de routeurs.
    Elle a de multiples usages comme le partage de fichiers, la messagerie instantanée, la téléphonie, l'envoi de courrier électronique et le web. 
@@ -71,16 +72,21 @@ Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier
     C'est ce dernier qui fait office de "chef de gare" et aiguille tous les paquets de donées IP vers le bon endroit.
     C'est ce service qui va recevoir le paquets IP evoyés par votre navigateur et les redirigera au bon endroit (sur Internet ou sur votre propre ordinateur). 
 
-    ## source: culture informatique, wikipedia,
+    # source: culture informatique, wikipedia,
 
     # Que sont le copyright et le copyleft ?
+
     * copyleft: Le copyleft , parfois traduit comme gauche d'auteur, est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
     L'auteur refuse donc que l'évolution possible de son travail soit accompagnée d'une restriction du droit à la copie, à l'étude, ou à de nouvelles évolutions. De ce fait, le contributeur apportant une modification (correction, ajout, réutilisation, etc.) est contraint de redistribuer ses propres contributions avec les mêmes libertés que l'original. Autrement dit, les nouvelles créations réalisées à partir d'œuvres sous copyleft héritent de fait de ce statut de copyleft : ainsi, ce type de licence permet un partage de la création ou de la connaissance, comme bien commun, qui permet aux œuvres culturelles d'être développées librement.
 
-    *copyright: Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common law, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth des Nations et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique).
+    * copyright: Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common law, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth des Nations et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique).
     Bien que les deux corpus de lois tendent à se rejoindre sur la forme grâce à l'harmonisation internationale opérée par la convention de Berne, ils diffèrent notablement sur le fond. Le copyright relève plus d’une logique économique et accorde un droit moral restreint, là où le droit d'auteur assure un droit moral fort en s'appuyant sur le lien entre l'auteur et son œuvre.
 
-    ** source: https://fr.wikipedia.org/wiki/Copyright , https://fr.wikipedia.org/wiki/Copyleft
+    * source: https://fr.wikipedia.org/wiki/Copyright , https://fr.wikipedia.org/wiki/Copyleft
+
+    # Que sont les Creatives Commons ?
+
+    * Creative Commons est une organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique.Résumé Creative Commons propose des contrats-type ou licences pour la mise à disposition d’œuvres en ligne. Inspirés par les licences libres, les mouvementsopen source et open access, ces licences facilitent l’utilisation d’œuvres (textes, photos, musique, sites web, etc). Ces licences s’adressent aux auteurs souhaitant : partager et faciliter l’utilisation de leur création par d’autres autoriser 
 
   
 
