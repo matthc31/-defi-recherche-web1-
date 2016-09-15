@@ -53,7 +53,13 @@ Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier
 
    * internet (contraction de Inter Network) est un réseau informatique qui relie des ordinateurs entre eux à l'échelle du monde. Ce gigantesque réseau se compose de millions de réseaux publics et privés plus petits, par exemple des réseaux universitaires, gouvernementaux ou commerciaux.
    Cette vaste infrastructure informatique repose sur le protocole de communication IP (pour Internet Protocol), qui permet d'acheminer des données entre les ordinateurs via un maillage de serveurs et de routeurs.
-   Elle a de multiples usages comme le partage de fichiers, la messagerie instantanée, la téléphonie, l'envoi de courrier électronique et le web. 
+   Elle a de multiples usages comme le partage de fichiers, la messagerie instantanée, la téléphonie, l'envoi de courrier électronique et le web.
+
+   * Le web (abréviation de World Wide Web ou toile mondiale) est donc un service d'Internet parmi d'autres.
+    Néanmoins, c'est la création du web par Tim Berners-Lee en 1989 qui a popularisé l'utilisation d'Internet auprès du grand public, d'où la confusion qui existe encore entre ces deux termes.
+    Pour expliquer autrement la différence entre web et Internet, on pourrait dire que le web n'est pas l'Internet mais sa principale application. Il s'agit d'un système de publication et de consultation de documents : des sons, des images et des textes comme l'article que vous êtes en train de lire...
+
+Ce système utilise les techniques de l'hypertexte, c'est-à-dire des hyperliens ou liens qui vous permettent de surfer d'une partie d'un document à une autre ou d'un document à un autre d'un simple double-clic. 
 
    # Qu’est-ce que cela :
 
