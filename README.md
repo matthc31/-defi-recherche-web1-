@@ -48,7 +48,15 @@ Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier
    1998 : création de l’empire Google par Sergeï Brin & Larry Page; année de fondation de Paypal
    2001 : Jimmy Wales & Larry Sanger dévoilent Wikipédia
    2004 : lancement de Facebook par Mark Zuckerberg et son équipe, généralisation du web 2.0
+
+   ## source?
+   *cultivetoi.fr
+
+   # quelle est la difference entre le web et internet?
+   * nternet (contraction de Inter Network) est un réseau informatique qui relie des ordinateurs entre eux à l'échelle du monde. Ce gigantesque réseau se compose de millions de réseaux publics et privés plus petits, par exemple des réseaux universitaires, gouvernementaux ou commerciaux.
+   Cette vaste infrastructure informatique repose sur le protocole de communication IP (pour Internet Protocol), qui permet d'acheminer des données entre les ordinateurs via un maillage de serveurs et de routeurs.
+   Elle a de multiples usages comme le partage de fichiers, la messagerie instantanée, la téléphonie, l'envoi de courrier électronique et le web. 
   
 
-  
+
 
